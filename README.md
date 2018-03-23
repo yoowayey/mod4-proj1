@@ -14,10 +14,10 @@ The descriptions of the 9 variables in the data set taken from the UCI web site 
 8. **Sub_metering_2** : energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 9. **Sub_metering_3** : energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
-###Objective:
+### Objective:
 To examine how household energy usage varies over a 2-day period in February 2007. By using the base plotting system, plots were constructed in R.
 
-###Further notes:
+### Further notes:
 * Because the data set is very large, the row number was identified before reading it in R and used it to select only the necessary data.
 
 * Data from the dates 2007-02-01 and 2007-02-02 only were used. 
